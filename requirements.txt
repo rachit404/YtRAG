@@ -3,3 +3,7 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
+sentence-transformers
+# torch torchvision --index-url https://download.pytorch.org/whl/cpu
+faiss-cpu
+chromadb
