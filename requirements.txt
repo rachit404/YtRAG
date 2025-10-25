@@ -7,3 +7,5 @@ sentence-transformers
 # torch torchvision --index-url https://download.pytorch.org/whl/cpu
 faiss-cpu
 chromadb
+langchain-groq
+python-dotenv
