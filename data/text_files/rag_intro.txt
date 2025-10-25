@@ -1,0 +1,15 @@
+RAG (Retrieval-Augmented Generation)
+            Definition:
+            RAG is an AI technique that combines information retrieval with text generation to produce more accurate and factual responses. Instead of relying solely on a model’s internal memory, RAG retrieves relevant external documents (like from a database or vector store) and uses them to generate context-aware answers.
+
+            How It Works
+            - Query Understanding: The user's question is embedded into a vector representation.
+            - Retrieval Step: The system searches a document store (e.g., FAISS, Chroma, Pinecone) for semantically similar documents.
+            - Augmentation Step: The retrieved documents are added to the prompt as context.
+            - Generation Step: A language model (like GPT or Llama) generates the final answer using both the query and the retrieved context.
+
+            Benefits
+            - Increases accuracy and factuality
+            - Enables domain-specific knowledge (custom data sources)
+            - Makes models more explainable (since you can trace the retrieved sources)
+        

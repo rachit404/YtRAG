@@ -1,0 +1,16 @@
+Introduction to Python
+            What is Python?
+            Python is a high-level, interpreted, and general-purpose programming language.
+            It is known for its simplicity, readability, and versatility, making it one of the most popular languages for:
+            - Web development
+            - Data science and AI
+            - Automation and scripting
+            - Machine learning
+            - Game and app development
+
+            Key Features of Python
+            - Easy to learn & read - uses clear, human-like syntax.
+            - Interpreted - runs line by line (no need to compile).
+            - Cross-platform - works on Windows, macOS, Linux, etc.
+            - Extensive libraries - supports NumPy, Pandas, TensorFlow, Flask, etc.
+        
